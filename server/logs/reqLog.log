@@ -1,0 +1,12 @@
+20230730	10:48:38	433e4d5c-f9c9-4a76-ad35-2f8ac3e9c495	GET	/	undefined
+20230730	10:48:38	a5d3b5ea-e3f9-4d94-b916-6a17f8ea1799	GET	/css/style.css	undefined
+20230730	10:48:38	65a81861-0c0f-47bd-92a4-5e9cef01f28a	GET	/favicon.ico	undefined
+20230730	10:48:46	1c5b55d9-2809-4b45-a927-f24febe767fa	GET	/r	undefined
+20230730	10:48:46	b5501ddc-bbf8-4a3f-9476-9059c936ce70	GET	/css/style.css	undefined
+20230730	10:49:41	543dac24-35ed-45a1-b4ce-8489424d48cc	GET	/api/auth/allusers/64c609878e3f5e415608761d	http://localhost:3000
+20230730	10:49:43	3de78b1a-38bc-45b5-a829-49489671d2a8	POST	/api/messages/getmsg	http://localhost:3000
+20230730	10:49:45	9297f257-c9c2-4e03-aa07-77b5d1e04a78	GET	/api/auth/logout/64c609878e3f5e415608761d	http://localhost:3000
+20230730	10:49:47	d2525225-185f-44b4-9613-82559adaed21	POST	/api/auth/login	http://localhost:3000
+20230730	10:50:28	70ec45ad-91c8-4d1e-a09f-be5a49c74562	POST	/api/auth/register	http://localhost:3000
+20230730	10:50:36	bf1cbdd8-e532-421f-9b73-4017db15cb1f	POST	/api/auth/setavatar/64c61644eaf18c4f8f007d78	http://localhost:3000
+20230730	10:50:36	a451aef1-602b-4ddb-82b9-8c8810500c16	GET	/api/auth/allusers/64c61644eaf18c4f8f007d78	http://localhost:3000
